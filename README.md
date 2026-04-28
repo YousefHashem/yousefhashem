@@ -6,8 +6,15 @@
 
 ###
 
-<p align="left">🚀 Android Developer<br><br>📍 Giza, Egypt<br>📧 YousefHashem128@gmail.com<br>🔗 LinkedIn<br>🌐 Portfolio</p>
-
+📍 Giza, Egypt  
+📧 [YousefHashem128@gmail.com](mailto:YousefHashem128@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yousef-hashem-1024)  
+🌐 [Portfolio](http://yousefh.site)
+<br>
+<br>
+<a href="https://contra.com/yousefhashem" target="_blank">
+  <img src="https://contra.com/static/embed/media/hiremeoncontra-dark.png" alt="Hire Me on Contra" width="200"/>
+</a>
 ###
 
 <br clear="both">
