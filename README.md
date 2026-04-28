@@ -15,6 +15,10 @@
 <a href="https://contra.com/yousefhashem" target="_blank">
   <img src="https://contra.com/static/embed/media/hiremeoncontra-dark.png" alt="Hire Me on Contra" width="200"/>
 </a>
+<br>
+<a href="https://www.upwork.com/freelancers/~019d3d1b930a8f5f60?mp_source=share" target="_blank">
+  <img src="https://img.shields.io/badge/Hire%20Me%20on%20Upwork-108a00?style=flat&logo=upwork&logoColor=white&labelColor=108a00&color=108a00" style="border-radius:999px;" width="200"/>
+</a>
 ###
 
 <br clear="both">
