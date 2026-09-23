@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Yousef Hashem</h1>
+<h1 align="left">Yousef Hashem</h1>
 
 ###
 
@@ -126,17 +126,12 @@
 ###
 
 <p align="left">🤝 Let's Connect<br><br>If you're looking for a reliable Android Developer who cares about performance, clean code, and user experience — let's talk.<br><br>📩 Email: YousefHashem128@gmail.com<br>🔗 LinkedIn: https://www.linkedin.com/in/yousef-hashem-1024<br>🌐 Portfolio: http://yousefh.site/</p>
-
-###
-
+<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YousefHashem.YousefHashem&"  />
 </div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=18&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=blink&desc=Thanks%20for%20stopping%20by!&descSize=18&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
+-->
 ###
