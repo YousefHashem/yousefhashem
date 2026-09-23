@@ -2,10 +2,6 @@
 
 ###
 
-<img align="left" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK024R9_JZoB15CE4cMQWPdKaZdxkSspLBJnYaQFtX2MXe6LzQ4x6HBYjDUFOnsoZp2SNsH78DsM716wBYN8a0gu2SLUPLqnQMTypjUCVFyY2tHX7-szzTJAbwifOLSfGYq7JQBHDUd9GfEivJ90YRQbaK9x-IQf2Plww1PPnpJdBzrd_mEVqag88UnXVQ/s16000/1766351622332_edit_115775598696718.jpg"  />
-
-###
-
 📍 Giza, Egypt  
 📧 [YousefHashem128@gmail.com](mailto:YousefHashem128@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yousef-hashem-1024)  
