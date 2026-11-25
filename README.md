@@ -130,16 +130,6 @@ My experience includes REST APIs, webhooks, payment workflows, database design, 
 <br>
 
 <p align="left">
-<b>Mobile Software Engineer (Android Native) — Freelance</b><br>
-<i>Jan 2023 – Mar 2026 · Remote</i><br><br>
-🔹 Delivered 5+ Android applications for clients across Egypt, Iraq, and Kuwait.<br>
-🔹 Developed applications featuring payment integration, real-time chat, and in-app wallets.<br>
-🔹 Worked across UI/UX design, Android development, and API integration.
-</p>
-
-<br>
-
-<p align="left">
 <b>Android Developer — AutoMechanic Tech (Emotion)</b><br>
 <i>Mar 2023 – Mar 2024 · Cairo, Egypt</i><br><br>
 🔹 Improved application UI/UX and implemented core features for wallets, stores, reservations, and referrals.<br>
